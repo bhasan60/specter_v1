@@ -10,6 +10,7 @@ Schematic:
 <img width="1454" height="1282" alt="image" src="https://github.com/user-attachments/assets/8fdf1046-41f8-4198-a9c9-59100185028b" />
 
 PCB:
+
 <img width="776" height="684" alt="image" src="https://github.com/user-attachments/assets/c55253c8-4e6e-4d1e-84f6-82f185afd037" />
 
 Case:
