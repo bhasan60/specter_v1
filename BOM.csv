@@ -1,0 +1,7 @@
+Quantity,Component,Notes
+1,Seeed Studio XIAO RP2040,Main microcontroller
+9,Mechanical Switches,Keyboard switches
+9,1N4148 Diodes,Matrix diodes
+1,Rotary Encoder (with push-button),Encoder with click
+1,OLED Display,Screen
+1,3D Printed Case (Top and Bottom),Enclosure
