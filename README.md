@@ -1,7 +1,7 @@
 ## The Story Behind Specter V1
 Welcome to the Specter V1! This is a custom 9-key macropad that I designed from the ground up. I wanted a dedicated board for productivity and custom shortcuts, but more importantly, I wanted to challenge myself to handle every single step of the hardware and software design process.
 
-While I have a lot of experience with 3D modeling in Onshape, designing a custom 2-layer PCB from scratch in KiCad was a massive learning experience for me. There was a steep learning curve—figuring out how to properly route the electrical matrix, generate the manufacturing gerber files, and fix all the little schematic errors along the way—but seeing the final physical board made it incredibly rewarding.
+While I have a lot of experience with 3D modeling in Onshape, designing a custom 2-layer PCB from scratch in KiCad was a massive learning experience for me. 
 
 ## Hardware & Features
 * **The Brain:** The whole board is powered by a Seeed Studio XIAO RP2040, which packs a ton of processing power into a tiny footprint.
