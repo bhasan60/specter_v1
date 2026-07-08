@@ -1,15 +1,15 @@
 ## The Story Behind Specter V1
-Welcome to the Specter V1! This is a custom 9-key macropad that I designed from the ground up. I wanted a dedicated board for productivity and custom shortcuts, but more importantly, I wanted to challenge myself to handle every single step of the hardware and software design process.
+Welcome to the Specter V1! This is a custom 9-key macropad that I designed from the ground up. I wanted a dedicated board just for fun and maybe some custom shortcuts, but more importantly, I wanted to challenge myself to handle every single step of the hardware and software design process.
 
-While I have a lot of experience with 3D modeling in Onshape, designing a custom 2-layer PCB from scratch in KiCad was a massive learning experience for me. 
+While I have a lot of experience with 3D modeling in Onshape, designing a custom 2-layer PCB from scratch in KiCad was a massive learning experience for me. It was fun though :)
 
 ## Hardware & Features
-* **The Brain:** The whole board is powered by a Seeed Studio XIAO RP2040, which packs a ton of processing power into a tiny footprint.
-* **Inputs & Control:** It features 9 mechanical switches and a tactile rotary encoder (with a push-button) that is perfect for volume control, scrolling, or custom macros.
-* **Display:** I integrated a small OLED screen at the top to display active macro layers and real-time status updates.
+* **The Brain:** The whole board is powered by a Seeed Studio XIAO RP2040.
+* **Inputs & Control:** It features 9 mechanical switches and a tactile rotary encoder.
+* **Display:** I integrated a small OLED screen at the top to display certain GIFs or random stuff.
 * **Custom PCB:** The board is a custom 2-layer design. To give it a personal touch, I added a custom New York Knicks logo to the front silkscreen to rep my city!
 * **Enclosure:** The physical case is a custom two-part 3D-printed shell I modeled in Onshape. It is designed to fit snugly around the components and is secured together using M3 screws.
-* **Firmware:** The macropad is fully programmable using QMK. Wrestling with the C code to get the rotary encoder to compile perfectly was easily the toughest part of the software side, but it runs flawlessly now.
+* **Firmware:** The macropad is fully programmable using QMK. 
 
 ## Screenshots
 Overall Hackpad:
