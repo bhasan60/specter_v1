@@ -2,6 +2,16 @@
 
 A custom 9-key macropad featuring a rotary encoder and an OLED screen, powered by a Seeed Studio XIAO RP2040. 
 
+## Features & Design
+The Specter V1 is a custom macropad built from the ground up for productivity and custom macros. 
+
+* **Microcontroller:** Powered by a Seeed Studio XIAO RP2040.
+* **Inputs:** 9 mechanical switches and 1 rotary encoder (with push-button) for customizable macros, volume control, and scrolling.
+* **Display:** OLED screen to show active layers and real-time status.
+* **PCB:** Custom 2-layer board designed in KiCad, featuring a custom New York Knicks logo on the silkscreen.
+* **Enclosure:** A custom two-part 3D printed case designed in Onshape, secured together using M3 screws.
+* **Firmware:** Fully programmable using QMK firmware.
+
 ## Screenshots
 Overall Hackpad:
 
